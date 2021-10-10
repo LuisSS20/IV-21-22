@@ -52,6 +52,7 @@ línea con tus iniciales.
 | <!-- Enlace de edusegrich --> | | |
 [edusegrich](https://github.com/edusegrich/OpoTests/pull/10) | 0.0.2 | |
 | <!-- Enlace de LuisSS20 --> | | |
+[LuisSS20](https://github.com/LuisSS20/DontWait/pull/5) | 0.0.2 | |
 | <!-- Enlace de juanfran00 --> | | |
 | https://github.com/albertotc99/MercadoClubesPro/pull/5 | 0.0.2 | |
 | https://github.com/aleveji/BuscaRecetas/pull/4 | 0.0.3 | |
